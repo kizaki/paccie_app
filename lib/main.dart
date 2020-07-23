@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+/**
+   体験実習用アプリ（ぱっっちぃアプリ）
+ */
 void main() {
   runApp(MyApp());
 }
