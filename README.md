@@ -1,6 +1,6 @@
 # paccie_app
 
-This is paccie application
+日本工学院八王子専門学校のゆるキャラ「ぱっちぃ」にお話しをさせるアプリです。
 
 ## Getting Started
 
